@@ -520,6 +520,7 @@ h1, h2, h3, h4, h5, h6 {
   .sound_muted {
     top: unset;
     bottom: 0;
+    z-index: 99999;
   }
 }
 @media only screen and (max-width: 768px) {
